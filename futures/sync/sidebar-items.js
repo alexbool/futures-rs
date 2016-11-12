@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["oneshot","A one-shot, futures-aware channel"],["spsc","A single-producer, single-consumer, futures-aware channel"]],"struct":[["BiLock","A type of futures-powered synchronization primitive which is a mutex between two possible owners."]]});
